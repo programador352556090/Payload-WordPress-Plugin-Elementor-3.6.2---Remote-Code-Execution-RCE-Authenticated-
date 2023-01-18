@@ -1,5 +1,3 @@
-# Payload-WordPress-Plugin-Elementor-3.6.2---Remote-Code-Execution-RCE-Authenticated-
-# Exploit Title: WordPress Plugin Elementor 3.6.2 - Remote Code Execution (RCE) (Authenticated)
 
 Exploit Title: WordPress Plugin Elementor 3.6.2 - Remote Code Execution (RCE) (Authenticated)
 Date: 04/16/2022
